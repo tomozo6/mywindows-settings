@@ -29,7 +29,8 @@
                 "backgroundImageOpacity": 0.5, // ★背景画像の透明度を0-1の範囲で指定★
                 "colorScheme": "One Half Dark", // ★カラースキーム名を指定★
                 "useAcrylic": false, // ★ウィンドウ背後にあるコンテンツが透過するかどうか★
-                "fontFace": "HackGenNerd Console"
+                "fontFace": "HackGen Console",
+                "fontSize": 14
             },
             {
                 "guid": "{b454ae62-4e3d-5e58-b989-0a998ec441b8}",
@@ -69,4 +70,3 @@
         }
     ]
 }
-
